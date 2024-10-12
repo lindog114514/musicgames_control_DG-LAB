@@ -1,1 +1,1 @@
-# musicgames_control_DG-LAB
+# 郊狼控制器
